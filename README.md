@@ -2,6 +2,12 @@
 # StickyBox React Component 
 StickyBox is an isolated fully customizable component that you can easily drop it in your project and just call it.
 
+## Screenshot
+
+![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot3.png)
+![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot1.png)
+![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot2.png)
+
 ## How To Install
 Get in the program folder(/react-stickybox), and type following commands
 
@@ -33,11 +39,6 @@ Props :
  
 ```
 
-## Screenshot
-
-![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot3.png)
-![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot1.png)
-![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot2.png)
 
 
 ## App React Features:
@@ -55,7 +56,7 @@ Props :
 
 ##  To Do Features
 * Testing with Jest
-* Adding Document 
+* Adding Documentation
 * Adding Online Demo
 
 
