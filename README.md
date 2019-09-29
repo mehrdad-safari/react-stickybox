@@ -1,8 +1,6 @@
-# react-stickybox
-Sticky Box Component React
 
 # StickyBox React Component 
-StickyBox is an isolated component that you can easily drop it in your project and just call it.
+StickyBox is an isolated fully customizable component that you can easily drop it in your project and just call it.
 
 ## How To Install
 Get in the program folder(/react-stickybox), and type following commands
@@ -28,6 +26,7 @@ Props :
  textColor="#000"       //Define Custom Text Color
  position="top-right"   // Box Position 
  width="450px"          // Box Width For Full Width Just Add 100%
+ // You Can Define Your Head Title Style
  header={{ title:'Hello World This is StickyBox!!', bgColor:'#FF704D', textColor:'#fff' }} 
  bgColor="#f5f5f5"      // Box Background Color
  >
@@ -35,8 +34,9 @@ Props :
 ```
 
 ## Screenshot
-![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot1.png)
+
 ![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot3.png)
+![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot1.png)
 ![screenshot](https://github.com/mehrdad-safari/react-stickybox/blob/master/public/screenshot2.png)
 
 
@@ -56,6 +56,7 @@ Props :
 ##  To Do Features
 * Testing with Jest
 * Adding Document 
+* Adding Online Demo
 
 
 
