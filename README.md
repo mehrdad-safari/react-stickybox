@@ -24,11 +24,11 @@ Props :
  <StickyBox 
  closeBtn="show"        //Show or Hide Close Button
  textColor="#000"       //Define Custom Text Color
- position="top-right"   // Box Position 
- width="450px"          // Box Width For Full Width Just Add 100%
+ position="top-right"   //First One is Vertical align ( top , center , buttom ) Second one is for Horizontal ( right , center , left )
+ width="450px"          //For Full Width Just Add 100%
  // You Can Define Your Head Title Style
  header={{ title:'Hello World This is StickyBox!!', bgColor:'#FF704D', textColor:'#fff' }} 
- bgColor="#f5f5f5"      // Box Background Color
+ bgColor="#f5f5f5"      //Box Background Color
  >
  
 ```
